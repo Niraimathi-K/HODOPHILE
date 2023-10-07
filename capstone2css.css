@@ -1,0 +1,50 @@
+body
+{
+  background-image: url(https://images.wallpaperscraft.com/image/single/snow_nature_frost_90867_1280x720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+    
+}
+
+header{
+    font-style: italic;
+    font-size: 700%;
+    text-align: center;
+    text-decoration: wavy;
+    color: rgb(255, 255, 255);
+
+}
+h1,h2,h3,p1 {
+    font-style: normal;
+    text-size-adjust: 50%;
+    font-style: italic;
+    font: size 50px ;
+    margin:10px;
+    text-align: center;
+    padding: 50px;
+    color: #ffffff;
+}
+p2{
+  font-size: x-large;
+}
+
+ h1,h2,h3 {
+    font-style: calc();
+    padding: 10px;
+    color: #ffffff;
+}
+button
+{
+color:fff;
+padding:8px 22px;
+border-radius:6px;
+background-color: #ffffff;
+transition:all 0.2s ease;
+position: left;
+}
+button:active{
+  transform:scale(0.96);
+}
+
+

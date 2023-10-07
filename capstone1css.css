@@ -1,0 +1,44 @@
+body{
+    
+    background-image:url(https://images.wallpaperscraft.com/image/single/map_hand_journey_140718_1680x1050.jpg);
+    background-size: cover;
+    background-position:center ;
+}
+
+    header{
+        font-style: italic;
+        font-style: calc();
+        font-size: 900%;
+        text-align: center;
+        color: #ffffff;
+    }
+    
+    h1{
+        font-style:italic;
+        font-size: 100;
+        text-align: right;
+        font-weight: 100;
+        color: #ffffff;  
+    }
+    footer
+     {
+        text-align: center;
+        background-color: #ffffff;
+        color: #fffdfd;
+        padding: 10px 0;
+    
+    }
+    button
+{
+color:fff;
+padding:8px 22px;
+border-radius:6px;
+background-color: #ffffff;
+transition:all 0.2s ease;
+position: left;
+}
+button:active{
+  transform:scale(0.96);
+}
+
+

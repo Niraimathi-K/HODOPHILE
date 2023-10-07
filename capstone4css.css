@@ -1,0 +1,25 @@
+body{
+  background-image: url(https://images.wallpaperscraft.com/image/single/feet_sneakers_journey_134929_1280x720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:90%;
+  height:80%;
+
+}
+h1{
+  color: white;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 300%;
+  text-align: right;
+  position: top;
+
+}
+h2{
+  color: white;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 500%;
+  text-align: right;
+  position: bottom;
+}
